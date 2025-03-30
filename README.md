@@ -13,4 +13,4 @@ This project explores random world generation techniques using procedural algori
 
 4.Cellular Automata - Used primarily for cave and dungeon generation.
 
-There is a sample code for cave generation in maps using cellular automata
+### There is a sample code for cave generation in maps using cellular automata
